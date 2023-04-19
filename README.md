@@ -1,5 +1,3 @@
-https://nimjetushar.github.io/angularjs-react/#/landing
-
 # AngularJs + React + Webpack
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)](https://nimjetushar.github.io/angularjs-react/)
