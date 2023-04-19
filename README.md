@@ -45,7 +45,5 @@ npm run test
 ```
 Uses jest snapshot feature for react components plus react component unit testing and basic functional testing for angular function's.
 
-## Licence
 
-[![GitHub license](https://img.shields.io/github/license/nimjetushar/angularjs-react.svg)](https://github.com/nimjetushar/angularjs-react/blob/master/LICENSE)
 
