@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "@fourjs/eslint-config-tn/all"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "babel/new-cap": 0
+  }
+}
